@@ -1,2 +1,2 @@
 FROM handikaadicky/hello-world
-add . ./web /var/www/html/web
+add ./web /var/www/html/web
